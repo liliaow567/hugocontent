@@ -10,6 +10,12 @@ main:
   - name: Posts
     url: '#posts'
     weight: 20
+  - name: Topics
+    url: '#tags'
+    weight: 30
+  # - name: Skills
+  #   url: '#skills'
+  #   weight: 40
   # - name: Projects
   #   url: '#projects'
   #   weight: 30
@@ -18,10 +24,10 @@ main:
   #   weight: 40
   - name: Experience
     url: '#experience'
-    weight: 30
-  - name: Publications
-    url: '#publications'
     weight: 50
+  # - name: Publications
+  #   url: '#publications'
+  #   weight: 40
   - name: Contact
     url: '#contact'
     weight: 60

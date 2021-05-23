@@ -1,13 +1,14 @@
 ---
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
+active: false
 widget: featurette
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 50
 
 title: Skills
 subtitle:
