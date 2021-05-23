@@ -2,3 +2,4 @@
 	path = public
 	url = git@github.com:liliaow567/liliaow567.github.io.git
 	branch = main
+	ignore = all
